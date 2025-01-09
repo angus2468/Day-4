@@ -2,7 +2,7 @@ const myName = "Angus";
 
 console.log(myName);
 
-let age = 30;
+let age = 24;
 console.log(age);
 
 let theWeather = "Freezing";
